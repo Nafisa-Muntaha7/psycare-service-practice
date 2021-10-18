@@ -22,7 +22,7 @@ const Footer = () => {
                 <ul>
                     <li>Grief and loss counceling</li>
                     <li>Self-Esteem Therapy</li>
-                    <li>Kida and Family</li>
+                    <li>Kids and Family</li>
                     <li>Life and Friendship</li>
                     <li>Old Age Therapy</li>
                 </ul>
