@@ -3,54 +3,60 @@
         "id": 1,
         "img": "https://templatekits.themewarrior.com/psych/wp-content/uploads/sites/33/elementor/thumbs/services0-pdwj62w7dfudvcr4h6pyshytb9is0zylmqtc3c5kl8.jpg",
         "name": "Depression",
-        "description": "Depression drains your energy, hope, and drive, making it difficult to take the steps that will help you to feel better. Cognitive behavioral therapy helps identify and manage the various factors that contribute to depression.",
+        "short": "Depression drains your energy, hope, and drive, making it difficult to take the steps that will help you to feel better. It involves a low mood and a loss of interest in activities. ",
+        "description": "Depression drains your energy, hope, and drive, making it difficult to take the steps that will help you to feel better. Depression is a common mental health problem that involves a low mood and a loss of interest in activities.  Cognitive behavioral therapy helps identify and manage the various factors that contribute to depression.",
         "price": "$230",
         "day": "Sun-Wed",
-        "timimg": "2 hours a day"
+        "timing": "2 hours a day"
     },
     {
         "id": 2,
         "img": "https://templatekits.themewarrior.com/psych/wp-content/uploads/sites/33/elementor/thumbs/services0-1-pdwj65ppxxy8u6n10pxuhz973f4vo39sn4rsj61e2k.jpg",
         "name": "Medical Management",
-        "description": "Medical case management is a collaborative process that facilitates recommended treatment plans to assure the appropriate medical care is provided to disabled, ill or injured individuals. It is a role frequently overseen by patient advocates. Medical and health services managers, also called healthcare executives or healthcare administrators, plan, direct, and coordinate medical and health services.",
+        "short": "Medical case management is a collaborative process that facilitates recommended treatment plans to assure the appropriate medical care is provided to disabled, ill or injured individuals.",
+        "description": "Medical case management is a collaborative process that facilitates recommended treatment plans to assure the appropriate medical care is provided to disabled, ill or injured individuals. It is a role frequently overseen by patient advocates. Health services managers, also called healthcare executives or healthcare administrators, direct, and coordinate medical and health services.",
         "price": "$310",
         "day": "Fri-Sat",
-        "timimg": "1.5 hours a day"
+        "timing": "1.5 hours a day"
     },
     {
         "id": 3,
         "img": "https://templatekits.themewarrior.com/psych/wp-content/uploads/sites/33/elementor/thumbs/services0-2-pdwj64rvr3wyikoe67j7xhhqi19ige62b04b1w2s8s.jpg",
         "name": "Imsomnia",
+        "short": "Insomnia is a common sleep disorder that can make it hard to fall asleep, hard to stay asleep, or cause you to wake up too early and not be able to get back to sleep.",
         "description": "Insomnia is a common sleep disorder that can make it hard to fall asleep, hard to stay asleep, or cause you to wake up too early and not be able to get back to sleep. You may still feel tired when you wake up.A counsellor will work with you to find out what thoughts and behaviours are preventing you from sleeping and help you to change these thought patterns. Sleeping pills are not usually used as a treatment for insomnia as they dont help the cause of the problems and often have side effects.",
         "price": "$270",
         "day": "Sun-Thurs",
-        "timimg": "2.5 hours a day"
+        "timing": "2.5 hours a day"
     },
     {
         "id": 4,
         "img": "https://templatekits.themewarrior.com/psych/wp-content/uploads/sites/33/elementor/thumbs/services0-3-pdwj64rvr3wyikoe67j7xhhqi19ige62b04b1w2s8s.jpg",
         "name": "ADHD",
+        "short": "Attention deficit hyperactivity disorder (ADHD) is a brain disorder that affects how you pay attention, sit still, and control your behavior.",
         "description": "Attention deficit hyperactivity disorder (ADHD) is a brain disorder that affects how you pay attention, sit still, and control your behavior. It happens in children and teens and can continue into adulthood. ADHD is the most commonly diagnosed mental disorder in children. Boys are more likely to have it than girls. Behavior therapy is an effective treatment for ADHD that can improve a childs behavior, self-control, and self-esteem.",
         "price": "$260",
         "day": "Fri-Mon",
-        "timimg": "3 hours a day"
+        "timing": "3 hours a day"
     },
     {
         "id": 5,
         "img": "https://templatekits.themewarrior.com/psych/wp-content/uploads/sites/33/elementor/thumbs/services0-4-pdwj63u1k9vo6yprbp4lczq9wne58p2byvgtkm46f0.jpg",
         "name": "PTSD",
-        "description": "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event such as a natural disaster, a serious accident, a terrorist act, war/combat, or rape or who have been threatened with death, sexual violence or serious injury. CBT is a type of psychotherapy that has consistently been found to be the most effective treatment of PTSD both in the short term and the long term. CBT for PTSD is trauma-focused, meaning the trauma event(s) are the center of the treatment.",
+        "short": "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event.",
+        "description": "Posttraumatic stress disorder (PTSD) is a psychiatric disorder that may occur in people who have experienced or witnessed a traumatic event such as a serious accident, a terrorist act, war/combat, or rape or who have been threatened with death, sexual violence or serious injury. CBT is a type of psychotherapy that has consistently been found to be the most effective treatment of PTSD both in the short term and the long term. CBT for PTSD is trauma-focused.",
         "price": "$340",
         "day": "Sun-Fri",
-        "timimg": "5 hours a day"
+        "timing": "5 hours a day"
     },
     {
         "id": 6,
         "img": "https://templatekits.themewarrior.com/psych/wp-content/uploads/sites/33/elementor/thumbs/services0-5-pdwj63u1k9vo6yprbp4lczq9wne58p2byvgtkm46f0.jpg",
         "name": "Panic attacks",
+        "short": "Panic attacks are sudden, unreasonable feelings of fear and anxiety that cause physical symptoms like a racing heart, fast breathing and sweating.",
         "description": "Panic attacks are sudden, unreasonable feelings of fear and anxiety that cause physical symptoms like a racing heart, fast breathing and sweating. Physical symptoms during a panic attack, such as a pounding or racing heart, sweating, chills, trembling, breathing problems, weakness or dizziness, tingly or numb hands, chest pain, stomach pain, and nausea. Therapy and anti-anxiety medications can stop panic attacks.",
         "price": "$250",
         "day": "Mon-Sat",
-        "timimg": "3 hours a day"
+        "timing": "3 hours a day"
     }
 ]
