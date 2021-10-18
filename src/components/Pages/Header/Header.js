@@ -16,7 +16,7 @@ const Header = () => {
             <NavLink style={activeStyle} to="/home">Home</NavLink>
             <NavLink style={activeStyle} to="/services">Services</NavLink>
             <NavLink style={activeStyle} to="/programs">Programs</NavLink>
-            <NavLink style={activeStyle} to="/pages">Pages</NavLink>
+            <NavLink style={activeStyle} to="/about">About</NavLink>
             <NavLink style={activeStyle} to="/login">Login</NavLink>
             <span>{user.displayName}</span>
             {user.email && <button className="btn btn-dark m-2" onClick={logout}>Log out</button>}
