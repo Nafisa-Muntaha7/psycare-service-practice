@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 const ServiceRoute = (props) => {
     const { name, img, description, price, day, timing } = props.service;
@@ -10,7 +9,6 @@ const ServiceRoute = (props) => {
             <p>{description}</p>
             <h4>Price:{price}</h4>
             <h5>Day: {day} and Timing: {timing}</h5>
-            {/* <Link to="/services"><button className="btn btn-dark">Details</button></Link> */}
         </div>
     );
 };

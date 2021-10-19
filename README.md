@@ -6,17 +6,18 @@ PsyCare [link](https://psycare-mental-health-service.netlify.app/).
 ### `PsyCare`
 
 We Provide Solutions For You
+
  1.Instant access to our practitioners availability
  2.Free initial phone consultation with Therapist
  3.Same day and evening appointments available
 
-### `Why do you need it?`
+### `Psycotherapy`
 
 Once you start making the effort to ‘wake yourself up’—that is, be more mindful in your activities—you suddenly start appreciating life a lot more.
 
 Life doesn’t make any sense without interdependence. We need each other, and the sooner we learn that, the better for us all.
 
-### `Psycotherapy`
+### `Why do you need it?`
 
 Supportive psychotherapy helps patients deal with issues related to their mental health conditions which in turn affect the rest of their lives. It helps build self-esteem, reduce anxiety, strengthen coping mechanisms, and improve social and community functioning.
 
