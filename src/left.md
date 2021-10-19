@@ -1,7 +1,7 @@
 Things still left to do-
 
 ## 1
-You Must implement Email and password based Authentication. This means, you will have to implement the Registration and the login page. Users should be able to toggle between Login and Registration view .
+You Must implement Email and password based Authentication. This means, you will have to implement the Registration and the login page. Users should be able to toggle between Login and Registration view.
 
 Also, implement at least one extra login which could be (facebook, github, google, etc).
 
